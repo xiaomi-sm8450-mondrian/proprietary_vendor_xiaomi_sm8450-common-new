@@ -588,7 +588,6 @@ PRODUCT_PACKAGES += \
     sensors.touch.detect \
     sensors.ultrasoundproximity \
     libasphere \
-    libmisoundfx \
     vendor.display.color@1.0 \
     vendor.display.color@1.1 \
     vendor.display.color@1.2 \
